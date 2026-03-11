@@ -1,5 +1,5 @@
 # Gestion des Stages - Application Web
-
+# salam
 Une application web complète pour la gestion des candidatures de stages étudiants, développée en PHP avec une interface moderne et responsive.
 
 ## 🚀 Fonctionnalités
